@@ -3,7 +3,7 @@ import torch
 import openai
 import time
 
-openai.api_key = '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'
+openai.api_key = ''
 
 VIDEO_FILENAME = "recorded_video.mp4"
 RECORD_TIME = 10
